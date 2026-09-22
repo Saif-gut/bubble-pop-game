@@ -1,0 +1,12 @@
+# Roblox Studio local and recovery files
+*.rbxl.bak
+*.rbxlx.bak
+*.rbxl.autosave
+*.rbxlx.autosave
+*.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
